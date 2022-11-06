@@ -1,4 +1,4 @@
-# Pizza App
+# Blog App
 This is an api for a blogg app
 
 ---
